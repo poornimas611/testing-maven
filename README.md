@@ -34,4 +34,6 @@ This example follows the following basic conventions:
 
 new changes
 
+hello
+
 Welcome
